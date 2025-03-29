@@ -1,0 +1,9 @@
+ADD sum 12 12
+SUB sum 12 6
+;
+mul sum 12 12
+Div dest 12 4
+sto x 17
+oUt Enter a number
+;in x
+HALT
